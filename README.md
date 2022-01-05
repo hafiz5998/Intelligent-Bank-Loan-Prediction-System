@@ -5,6 +5,6 @@ based on real Banking dataset. The project is implemented with the application o
 
 The project includes implementing data Pre-processing,data cleaning,feature engineering, Exploratory Data Analysis and train machine learning model.
 
-The output of the project will have a ML model that can predict the result of the loan applicant.
+The output of the project will have a ML model that can predict the result of the loan applicant based on user criteria.
 
 Attach in the repository is the dataset and codes.
