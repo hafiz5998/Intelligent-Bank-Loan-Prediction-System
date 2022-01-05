@@ -7,3 +7,4 @@ The project includes implementing data Pre-processing,data cleaning,feature engi
 
 The output of the project will have a ML model that can predict the result of the loan applicant.
 
+Attach in the repository is the dataset and codes.
